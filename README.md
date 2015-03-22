@@ -28,4 +28,4 @@ Good luck!
 #### Steps to reproduce this project:
 1. Download and open the re script `run_analysis.R` using a text editor (e.g. RStudio)
 2. If needed uncomment and change value of the parameter `mystartwd` (line 22) to your project working directory/folder (e.g. the directory in which you downloaded/saved the script `run_analysis.R` into)
-3. Run de R script `run_analysis.R` which on succesfull execution will output a  tidy data file `tidyData.txt` and a coodbook markdown file `CodeBook.md` file
+3. Run de R script `run_analysis.R` which on succesfull execution will output a  tidy data file `tidyData.txt` and a coodbook markdown file `codebook.md` file
